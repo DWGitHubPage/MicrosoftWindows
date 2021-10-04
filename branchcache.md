@@ -22,6 +22,6 @@ Steps:
 6. Click Set Up.
 
 
-BranchCache files are stored in:
+### BranchCache files are stored in:
 
 C:WindowsServiceProfilesNetworkServiceAppDataLocalPeerDistRepub
