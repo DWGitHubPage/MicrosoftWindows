@@ -22,13 +22,13 @@ Steps:
 6. Click Set Up.
 
 
-### Checking the status or turning BranchCache on or off in Powershell:
+### BranchCache in Powershell:
 
 #### To check the status:
 
 Get-WSSBranchCacheStatus
 
-#### To turn on BranchCache:
+### To turn on BranchCache:
 
 Enable-WSSBranchCache
 
