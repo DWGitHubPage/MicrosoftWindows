@@ -1,7 +1,11 @@
-# Working with BranchCache.
+## Working with BranchCache.
+
+BranchCache works in one of two modes: Distributed or Hosted Mode. Distributed allows clients to request cached 
+content from one another, while Hosted Mode centralizes the cache on a BranchCache server. Distributed Mode 
+should be used when there are fewer than 50 clients on the branch office network.
 
 
-# Configuring BranchCache
+### Configuring BranchCache
 
 Steps:
 
@@ -16,3 +20,8 @@ Steps:
 5. In the BranchCache Setup dialog box, enter the following information: Specify the path to the hash store.
 
 6. Click Set Up.
+
+
+BranchCache files are stored in:
+
+C:WindowsServiceProfilesNetworkServiceAppDataLocalPeerDistRepub
