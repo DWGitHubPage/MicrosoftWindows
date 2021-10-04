@@ -24,7 +24,7 @@ Steps:
 
 ### BranchCache in Powershell:
 
-#### To check the status:
+### To check the status:
 
 Get-WSSBranchCacheStatus
 
@@ -32,7 +32,7 @@ Get-WSSBranchCacheStatus
 
 Enable-WSSBranchCache
 
-#### To turn off BranchCache:
+### To turn off BranchCache:
 
 Disable-WSSBranchCache
 
