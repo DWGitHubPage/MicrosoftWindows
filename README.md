@@ -35,3 +35,7 @@
 [Windows 11/10 Run Commands](https://thegeekpage.com/101-windows-10-run-commands-shortcuts-to-find-hidden-features/)
 
 [Windows Commands - Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+
+# Troubleshooting
+
+[Microsoft Windows ISO Download Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
