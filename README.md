@@ -5,6 +5,11 @@
 [Microsoft Support](https://support.microsoft.com/en-us/)
 
 
+# Azure
+
+[AZURE AD: Password Protection for Windows Server Active Directory](https://www.microsoft.com/en-us/download/details.aspx?id=57071)
+
+
 # Cheat Sheets
 
 [Run Commands Cheat Sheet](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/)
