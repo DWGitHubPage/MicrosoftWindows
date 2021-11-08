@@ -1,4 +1,4 @@
-A place for troubleshooting tips with Windows.
+## A place for troubleshooting tips with Windows.
 
 
 If you're encountering display or graphics issues, this will restart the graphics driver:
