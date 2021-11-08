@@ -1,12 +1,12 @@
 Displays all active ports:
 
 netstat -a
-
+_________________________________________________________
 
 Displays the executable file of a connection or listening port (requires administrator rights):
 
 netstat -b
-
+_________________________________________________________
 
 Shows statistics about your network connection (received and sent data packets, etc.):
 
