@@ -1,6 +1,11 @@
-netstat -a  Displays all active ports.
+Displays all active ports:
 
-netstat -b  Displays the executable file of a connection or listening port (requires administrator rights).
+netstat -a
+
+
+Displays the executable file of a connection or listening port (requires administrator rights):
+
+netstat -b
 
 
 Shows statistics about your network connection (received and sent data packets, etc.):
@@ -62,6 +67,6 @@ Displays which connection templates were used for the active TCP connections:
 
 netstat -y
 
- Displays the respective statistics again after a selected number of seconds (here 10):
+Displays the respective statistics again after a selected number of seconds (here 10):
 
 netstat -p 10
