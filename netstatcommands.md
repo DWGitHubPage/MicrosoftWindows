@@ -1,10 +1,10 @@
 
-* Displays all active ports:
+Displays all active ports:
 
 netstat -a
 
 
-* Displays the executable file of a connection or listening port (requires administrator rights):
+Displays the executable file of a connection or listening port (requires administrator rights):
 
 netstat -b
 
