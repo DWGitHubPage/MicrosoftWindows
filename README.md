@@ -1,6 +1,6 @@
 # Microsoft Windows
 
-[Microsoft Docs/TechNet](https://docs.microsoft.com/en-us/)
+[Microsoft Docs/TechNet](https://learn.microsoft.com/en-us/)
 
 [Microsoft Support](https://support.microsoft.com/en-us/)
 
